@@ -1,6 +1,6 @@
-# bottom_nav_bloc_demo
+# bottom navigation using bloc
 
-A new Flutter project.
+A new Flutter project demo using the bloc pattern for bottom navigation.
 
 ## Getting Started
 
